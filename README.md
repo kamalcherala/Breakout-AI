@@ -1,4 +1,4 @@
-# Email Sender API
+# CUSTOM EMAIL SENDER
 
 Email Sender API is a simple, open-source RESTful API designed for sending customized emails programmatically. This API can be used to automate email notifications, send scheduled greetings, and support any application requiring email functionality. Built with Express.js and configurable SMTP settings, the API is lightweight and ready for cloud deployment.
 
