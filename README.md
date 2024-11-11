@@ -113,7 +113,7 @@ X-API-Key: your-api-key
 Content-Type: application/json
 
 {
-  22071a1012@vnrvjiet.in "from": "s",
+  "22071a1012@vnrvjiet.in" "from": "s",
   "to": "recipient@example.com",
   "subject": "Hello!",
   "content": "This is a test email sent via Email Sender API."
@@ -210,4 +210,4 @@ We welcome contributions! Please submit a pull request or create an issue for an
 
 ## 📞 Support
 
-If you encounter any issues, please open an issue in the GitHub repository or contact us directly at maheshsharan28@gmail.com.
+If you encounter any issues, please open an issue in the GitHub repository or contact us directly at  skml.ch500@gmail.com.
