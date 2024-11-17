@@ -42,7 +42,7 @@ NODE_ENV=development
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 SMTP_SECURE=false
-SMTP_USER=maheshsharan28@gmail.com
+SMTP_USER=22071a1012@vnrvjiet.in
 SMTP_PASS=your-app-password  # Get this from Google (see below)
 ```
 
